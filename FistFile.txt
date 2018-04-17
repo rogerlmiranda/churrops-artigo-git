@@ -1,3 +1,6 @@
 meu primeiro arquivo
+<<<<<<< HEAD
 teste alteracao do arquivo
 segunda modificacao
+=======
+>>>>>>> 187d059d02299893d9773ec31b8999c0f10634b6
